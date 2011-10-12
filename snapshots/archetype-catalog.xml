@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><archetype-catalog>
+  <archetypes>
+    <archetype>
+      <groupId>org.openarchetypes</groupId>
+      <artifactId>multi-javaee5-archetype</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+      <description>Generates a *very basic* multi module Java EE 5 project composed of a parent pom project and 4 nested modules : Java Utility, EJB 3.0, Web 2.5 and EAR 5.0. No JSF nor persistence involved</description>
+    </archetype>
+    <archetype>
+      <groupId>org.openarchetypes</groupId>
+      <artifactId>seam-ear-archetype</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+      <description>Generates a multi module JBoss Seam project composed of a parent pom project and 5 nested modules : Java Utility, EJB 3.0, Web 2.5, EAR 5.0 and an integration test project (runs embedded JBoss tests).</description>
+    </archetype>
+    <archetype>
+      <groupId>org.openarchetypes</groupId>
+      <artifactId>multi-javaee6-archetype</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+      <description>Generates a *very basic* multi module Java EE 6 project composed of a parent pom project and 4 nested modules : Java Utility, EJB 3.1, Web 3.0 and EAR 6.0. No JSF nor persistence involved</description>
+    </archetype>
+  </archetypes>
+</archetype-catalog>

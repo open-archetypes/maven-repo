@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xsi:schemaLocation="http://maven.apache.org/METADATA/1.0.0 http://maven.apache.org/xsd/metadata-1.0.0.xsd" xmlns="http://maven.apache.org/METADATA/1.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <plugins>
+    <plugin>
+      <name>Basic multi module Java EE 5 archetype</name>
+      <prefix>multi-javaee5-archetype</prefix>
+      <artifactId>multi-javaee5-archetype</artifactId>
+    </plugin>
+    <plugin>
+      <name>Seam EAR Archetype</name>
+      <prefix>seam-ear-archetype</prefix>
+      <artifactId>seam-ear-archetype</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
