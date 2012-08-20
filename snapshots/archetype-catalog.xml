@@ -18,5 +18,11 @@
       <version>0.0.1-SNAPSHOT</version>
       <description>Generates a *very basic* multi module Java EE 6 project composed of a parent pom project and 4 nested modules : Java Utility, EJB 3.1, Web 3.0 and EAR 6.0. No JSF nor persistence involved</description>
     </archetype>
+    <archetype>
+      <groupId>org.openarchetypes</groupId>
+      <artifactId>tycho-eclipse-plugin-archetype</artifactId>
+      <version>1.0.0-SNAPSHOT</version>
+      <description>Creates multiple, Tycho-built, eclipse-plugin projects : Parent project, Core plugin, Test fragment, Feature and Update plugins.</description>
+    </archetype>   
   </archetypes>
 </archetype-catalog>
