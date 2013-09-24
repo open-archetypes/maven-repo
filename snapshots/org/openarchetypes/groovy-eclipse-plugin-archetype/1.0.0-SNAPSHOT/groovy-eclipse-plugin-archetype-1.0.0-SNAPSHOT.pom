@@ -20,7 +20,7 @@
   <version>1.0.0-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
   <name>groovy-eclipse-plugin-archetype</name>
-  <description>Creates multiple, Tycho-built, groovy eclipse-plugin projects: Parent project, Core plugin, Test fragment, Feature and Update plugins.  </description>
+  <description>Creates multiple, Tycho-built, Groovy based eclipse-plugin projects: Parent project, Core plugin, Test fragment, Feature and Update plugins.</description>
   <inceptionYear>2012</inceptionYear>
   <licenses>
       <license>
