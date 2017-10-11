@@ -35,6 +35,13 @@
       <repository>http://dl.bintray.com/open-archetypes/maven</repository>
       <description>Creates multiple, Tycho-built, eclipse-plugin projects : Parent project, Core plugin, Test fragment, Feature and Update plugins.</description>
     </archetype>
+    <archetype>
+      <groupId>org.openarchetypes</groupId>
+      <artifactId>jdt.ls-extension-archetype</artifactId>
+      <version>0.1.0</version>
+      <repository>http://dl.bintray.com/open-archetypes/maven</repository>
+      <description>Generates a JDT.LS Extension plugin</description>
+    </archetype>
     <!--
     <archetype>
       <groupId>org.openarchetypes</groupId>
